@@ -1,1 +1,1 @@
-Esta es la historia de el curso 1 de git.
+Esta es la historia de el curso 1 de git y git hub
